@@ -14,7 +14,7 @@
     <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
   </p>
   
-   TimeCamp is a web-based application to track the activity of computer users. The application is dedicated either to freelancers or teams. The tool is a time tracking software to invoice the employees' work based on an hourly rate, measuring the work effectiveness and project management. It is a collaborative project built by a team of 5 and executed in 5 days.
+   TimeCamp is a web-based application to track the activity of computer users. The application is dedicated either to freelancers or teams. The tool is a time tracking software to invoice the employees' work based on an hourly rate, measuring the work effectiveness and project management. It is a collaborative project built by a team of 5 and executed in 2 months.
   
 
 <br />
